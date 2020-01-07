@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debouncer", "Debouncer.csproj", "{0FFDC729-1A8D-4B70-9608-9FAED29409C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFDC729-1A8D-4B70-9608-9FAED29409C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFDC729-1A8D-4B70-9608-9FAED29409C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFDC729-1A8D-4B70-9608-9FAED29409C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFDC729-1A8D-4B70-9608-9FAED29409C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2324331-063C-4BEC-B04D-89B2DF1D5F71}
+	EndGlobalSection
+EndGlobal
